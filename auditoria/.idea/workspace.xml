@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd9662c8-023c-4e02-b71b-7cddfa8e9a18" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/ProgramacaoWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/ProgramacaoWeb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Http/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/sanctum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/resources/views/Layout.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/resources/views/exercicio1.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeiroprojeto/webpack.mix.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="26I3m4KG3F7PCetYScm2PVcJvXN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ProjetoPHP" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd9662c8-023c-4e02-b71b-7cddfa8e9a18" name="Changes" comment="" />
+      <created>1647097431245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647097431245</updated>
+      <workItem from="1647097432852" duration="37000" />
+    </task>
+    <servers />
+  </component>
+</project>

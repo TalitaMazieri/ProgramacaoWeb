@@ -1,0 +1,17 @@
+{
+  "name": "talita-pc/auditoria",
+  "autoload": {
+    "psr-4": {
+      "Talita\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "mazieri",
+      "email": "mazieri.tata@gmail.com"
+    }
+  ],
+  "require": {
+    "monolog/monolog":"2.3"
+  }
+}

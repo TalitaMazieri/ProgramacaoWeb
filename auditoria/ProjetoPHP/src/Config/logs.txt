@@ -1,0 +1,7 @@
+[2022-03-05T06:14:58.387696+00:00] projetophp.INFO: Foi realizada a operação de soma! [] []
+[2022-03-05T06:16:09.865025+00:00] projetophp.INFO: Foi realizada a operação de soma! [] []
+[2022-03-12T16:14:40.471072+01:00] projetophp.INFO: Foi realizada a operação de soma! [] []
+[2022-03-12T16:20:09.635778+01:00] projetophp.INFO: Foi realizada a operação de soma! [] []
+[2022-03-12T16:21:16.226039+01:00] projetophp.INFO: Foi realizada a operação de divisão! [] []
+[2022-03-12T17:18:27.264064+01:00] projetophp.INFO: Foi realizada a operação de soma! [] []
+[2022-03-15T17:00:57.990701+01:00] projetophp.INFO: Foi realizada a operação de soma! [] []
